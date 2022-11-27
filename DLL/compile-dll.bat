@@ -1,0 +1,1 @@
+call g++ -shared -Os -s -o square.dll square.cpp
